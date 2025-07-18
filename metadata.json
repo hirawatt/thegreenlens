@@ -1,0 +1,6 @@
+{
+  "name": "Climate Content Creator",
+  "description": "An application that generates a complete video content package (thumbnail, video, speech, and captions) from a user-defined audience persona and climate-focused storyboard.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
