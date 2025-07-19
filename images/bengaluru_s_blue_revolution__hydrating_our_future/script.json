@@ -1,0 +1,26 @@
+{
+  "scenes": [
+    {
+      "dialogue": "Bengaluru, our vibrant city, faces a profound challenge: water scarcity.",
+      "visual": "A slightly muted, artistic shot of Bengaluru's modern skyline at dusk. Subtly overlaid are visual elements representing receding water levels, like faint dry cracks in earth or a nearly empty reservoir, creating a sense of a silent, impending challenge. Mood is somber but not despairing. Ultra-realistic digital painting, cinematic lighting."
+    },
+    {
+      "dialogue": "But across our city, incredible stories of hope are flowing, as citizens turn the tide.",
+      "visual": "A dynamic and upbeat montage of diverse Bengaluru residents actively engaged in water solutions. Show quick cuts: a family installing a sleek rainwater harvesting system on their rooftop, students tending to a garden watered by collected rainwater at school, a community group enthusiastically desilting a local lake with visible progress. Bright, natural lighting, optimistic atmosphere, hyper-realistic photography style."
+    },
+    {
+      "dialogue": "Every drop saved, every lake revived, every innovation adopted, builds a powerful wave of change.",
+      "visual": "A triptych or multi-panel visual illustrating tangible impact: Panel 1 shows a modern apartment building with a text overlay indicating 'Reduced tanker dependency!'; Panel 2 shows children happily learning in a school setting with 'Millions of liters saved!' overlay; Panel 3 shows a vibrant, restored urban lake with 'Recharged borewells for thousands!' overlay. Diverse faces (student, elder, techie) are visible, all expressing positive engagement. Bright, clear, impactful visuals, infographics style integrated with realistic photography."
+    },
+    {
+      "dialogue": "Imagine a water-secure Bengaluru, where ingenuity and resilience secure our future.",
+      "visual": "Symbolic and aspirational imagery: Close-up of diverse hands gently cupping water, which then transitions to a thriving, vibrant green plant growing from rich soil. Then, a wider shot of children playing joyfully near a sparkling, healthy water body in a green, urban park setting in Bengaluru. Warm, hopeful lighting, sense of abundance and well-being. Dreamy, optimistic feel, high-quality digital illustration."
+    },
+    {
+      "dialogue": "Join Bengaluru's Blue Revolution: together, let's hydrate our future.",
+      "visual": "A strong, empowering visual of a thriving, verdant Bengaluru cityscape with a prominent, rejuvenated lake reflecting clear blue sky. A subtle, elegant 'Join Bengaluru's Blue Revolution' text overlay appears on screen. The overall mood is triumphant and inspiring. Bright, crisp, high-resolution aerial photography perspective, showcasing a flourishing, water-rich urban environment."
+    }
+  ],
+  "thumbnail_prompt": "Vibrant and hopeful image of Bengaluru. Focus on lush green spaces contrasting with clear, flowing water. A hand symbolically cupping water droplets, with a blurred cityscape of Bengaluru in the background. Rays of sunlight breaking through clouds. Emphasize blue and green hues with a touch of gold for hope. High contrast, dynamic composition, inspiring mood. Digital art, ultra-realistic.",
+  "title": "Bengaluru's Blue Revolution: Hydrating Our Future"
+}

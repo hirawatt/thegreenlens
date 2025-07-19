@@ -1,0 +1,22 @@
+{
+  "scenes": [
+    {
+      "dialogue": "Feeling overwhelmed? Take a deep breath with me.",
+      "visual": "A gentle waterfall cascading over mossy rocks in a serene, lush forest. Soft, natural light, peaceful atmosphere. Vertical shot, calming, high detail."
+    },
+    {
+      "dialogue": "Inhale for four seconds... hold...",
+      "visual": "Sunlight filtering softly through vibrant green forest leaves, creating dappled light patterns on the forest floor. A warm, peaceful glow. Vertical shot, tranquil, natural light."
+    },
+    {
+      "dialogue": "...and exhale for six. Release the tension.",
+      "visual": "A tranquil lake at dawn, with mist gently rising above the water and soft pastel colors in the sky (pink, light blue, lavender). Serene, calm reflections. Vertical shot, peaceful, dreamlike."
+    },
+    {
+      "dialogue": "Carry this calm with you. You've got this.",
+      "visual": "A person with a serene, peaceful smile looking directly at the camera, bathed in soft, warm natural light. Their eyes are calm and reassuring. Vertical shot, close-up to mid-shot, comforting, gentle expression."
+    }
+  ],
+  "thumbnail_prompt": "A serene forest scene at golden hour with soft, diffused sunlight filtering through tall trees, casting a warm glow. A subtle hint of a calm, peaceful silhouette in the foreground. Lush greens, soft golden light, and a touch of deep blue in the shadows. Composition should evoke tranquility and a sense of escape from stress. Vertical format, high detail, inviting and soothing.",
+  "title": "Instant Calm: Your 60-Second Stress Buster"
+}
